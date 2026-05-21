@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color: white;
-    
+    text-align: center;
 }
 #Chap1{
     text-align: center;
@@ -9,7 +9,7 @@ body{
 .step{
     background-color: white;
     color: black;
-    margin-left: 48%;
+    
     padding-top:10px ;
     padding-bottom: 10px;
     
