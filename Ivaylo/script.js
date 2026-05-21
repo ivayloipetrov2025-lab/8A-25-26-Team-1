@@ -3,13 +3,18 @@ const info2=document.getElementById("info2");
 const info3=document.getElementById("info3");
 
 info1.style.display='none';
+info2.style.display='none';
+info3.style.display='none';
 let s=0;
 function showr(a){
     if(a===1) info1.style.display='block';
-
+    if(a===2) info2.style.display='block';
+    if(a===3) info3.style.display='block';
 }
 function hider(a){
     if(a===1) info1.style.display='none';
+    if(a===2) info2.style.display='none';
+    if(a===3) info3.style.display='none';
 }
 function show(a){
     s++;
