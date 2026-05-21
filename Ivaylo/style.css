@@ -5,3 +5,8 @@ body{
 h1{
     margin-left: 35%;
 }
+.step{
+    background-color: white;
+    color: black;
+    margin-right: 30%;
+}
